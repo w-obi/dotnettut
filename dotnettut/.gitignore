@@ -1,0 +1,10 @@
+/bin
+/obj
+/Data/Migrations
+/Properties
+/appsettings.Development.json
+/appsettings.json
+/dotnettut.csproj
+/dotnettut.slnx
+/games.http
+/GameStore.db
